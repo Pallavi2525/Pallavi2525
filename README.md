@@ -4,6 +4,7 @@
 ### My Tech Toolbox 🧰 
 
 <p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" title="C#" alt="ASP .Net" width="40" height="40"/> 
 <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_dot_net-1024.png" title="ASP .Net" alt="ASP .Net" width="40" height="40"/> 
 <img src="https://img.icons8.com/dusk/344/sql.png" title="SQL Server" alt="SQL Server" width="40" height="40"/> 
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-1024.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>

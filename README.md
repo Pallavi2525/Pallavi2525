@@ -17,7 +17,7 @@
 
 * My primary coding language: C#
 * Passionate for learning & exploring new Tech.
-* I am working as a Software Engineer at ValueLabs, India.
+* I am working as a Senior Software Engineer at ValueLabs, India.
 * I am currently learning ReactJS and AWS Cloud basics
 * Reach out to me on LinkedIn or email me at mail.singhpallavi@gmail.com ^^
 
